@@ -3,10 +3,10 @@
 
 ### Github : https://github.com/Kbentley8/Tech-Blog
 
-### Heroku : 
+### Heroku : https://tech-blogkb8.herokuapp.com/newPost
 
 ## Description
-A CMS-style blog application with the MVC paradigm in its architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM, and the express-session npm package for authentication.
+This is a  CMS-style blog application using a MVC paradigm in its architectural structure, Handlebars.js, Sequelize, and the express-session package.
 
 
 ## User Story
