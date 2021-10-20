@@ -40,5 +40,5 @@ A CMS-style blog application with the MVC paradigm in its architectural structur
 
 
 ## Contributor:
-Kiyona Bentley ©2020 All Rights Reserved.
+Kiyona Bentley ©2021 All Rights Reserved.
 - - -
