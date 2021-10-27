@@ -1,7 +1,7 @@
 
 /* Global Styles */
 body {
-    background-color: rgb(255, 248, 248);
+    background-color: rgb(160, 184, 190);
 }
 
 nav {
@@ -15,9 +15,9 @@ a {
     color: black;
 }
 
-/********************/
+
 /* Home view Styles */
-/********************/
+
 #blogposts {
     width: 95%;
     display: flex;
@@ -30,9 +30,8 @@ a {
     margin: 10px 0 5px 35px;
 }
 
-/*******************************/
 /* Individual blog post styles */
-/*******************************/
+
 #authorName, #datePosted {
     font-size: 20px;
     font-weight: bold;
@@ -56,9 +55,9 @@ a {
     visibility: hidden;
 }
 
-/***************/
+
 /* Form styles */
-/***************/
+
 #loginForm, 
 #registrationForm, 
 #newPostForm,
@@ -76,24 +75,24 @@ a {
 }
 
 
-/*********************/
+
 /* Login view styles */
-/*********************/
+
 #register:hover {
     opacity: 0.5;
 }
 
-/****************************/
+
 /* Registration form styles */
-/****************************/
+
 .form-item {
     margin-bottom: 10px;
 }
 
 
-/*****************/
-/* Media Queries */
-/*****************/
+
+/* Media Queries 
+
 @media screen and (max-width: 1000px) {
     nav {
         height: 225px;

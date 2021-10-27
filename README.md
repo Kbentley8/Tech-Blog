@@ -35,10 +35,17 @@ This is a  CMS-style blog application using a MVC paradigm in its architectural 
 <p><a href="https://www.npmjs.com/package/mysql2">Node MySQL 2</a></p>
 <p><a href="https://www.npmjs.com/package/bcrypt">node.bcrypt.js</a></p>
 <p><a href="https://www.npmjs.com/package/express-session">express-session</a></p>
+<p><a href="https://materializecss.com/">Materialize</a></p>
 <p><a href="https://www.npmjs.com/package/connect-session-sequelize">connect-session-sequalize</a></p>
 <p><a href="https://www.heroku.com/">Heroku</a></p>
 
 
-## Contributor:
-Kiyona Bentley ©2021 All Rights Reserved.
+## Contributors:
+[Kiyona Bentley]()
+[Andrew Currie]()
+[Savion "Sav" Elsey-Williams]()
+[]
+
+
+©2021 All Rights Reserved.
 - - -
