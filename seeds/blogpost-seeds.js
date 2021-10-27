@@ -12,8 +12,8 @@ const blogpostData = [
         user_id: 2
     },
     {
-        title: 'Another post',
-        content: 'this is a third post with no comments',
+        title: 'My third post',
+        content: 'this is a third post of the tech blog',
         user_id: '1'
     }
 ];

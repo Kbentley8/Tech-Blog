@@ -1,5 +1,5 @@
 const loginFormHandler = async (event) => {
-  /**
+  /*
    * Handles validation of the user's given username and password
    * against entries in the database. Makes fetch request (POST) to /api/user/login endpoint.
    * If response is OK, redirect user to homepage.
@@ -10,7 +10,7 @@ const loginFormHandler = async (event) => {
   const username = document.querySelector('#username-login').value.trim();
   const password = document.querySelector('#password-login').value.trim();
 
-  // if both username and password values are provided
+  // this is for if the username and password values are provided
   if (username && password) {
     // Send POST request to the API endpoint
     const response = await fetch('/api/user/login', {
