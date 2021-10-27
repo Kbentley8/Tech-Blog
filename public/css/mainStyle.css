@@ -46,7 +46,7 @@ a {
 #comments p{
     display: flex;
     flex-direction: column;
-    background-color: rgb(211, 211, 211);
+    background-color: rgb(144, 185, 178);
     border-radius: 10px;
     padding: 5px;
 }
