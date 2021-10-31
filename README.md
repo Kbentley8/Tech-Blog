@@ -41,7 +41,7 @@ This is a  CMS-style blog application using a MVC paradigm in its architectural 
 
 
 ## Contributors:
-[Kiyona Bentley]()
+Kiyona Bentley
 
 
 
