@@ -42,9 +42,7 @@ This is a  CMS-style blog application using a MVC paradigm in its architectural 
 
 ## Contributors:
 [Kiyona Bentley]()
-[Andrew Currie]()
-[Savion "Sav" Elsey-Williams]()
-[]
+
 
 
 ©2021 All Rights Reserved.
