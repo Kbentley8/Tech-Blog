@@ -34,7 +34,7 @@ router.get('/:id', (req, res) => {
                 },
                 {
                     model: Comment,
-                    attributes: ['id', 'comment_text', 'created_at'],
+                    attributes: ['id', 'content', 'date'],
                     include: {
                         model: Post,
                         attributes: ['title']
