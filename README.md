@@ -3,8 +3,7 @@
 
 ### Github : https://github.com/Kbentley8/Tech-Blog
 
-### Heroku : https://tech-blogkb8.herokuapp.com/newPost
-
+### Heroku : https://tech-blogkb8.herokuapp.com/
 ## Description
 This is a  CMS-style blog application using a MVC paradigm in its architectural structure, Handlebars.js, Sequelize, and the express-session package.
 
@@ -25,6 +24,8 @@ This is a  CMS-style blog application using a MVC paradigm in its architectural 
 - Signed-in user is able to update or delete their posts.
 - User is automatically signed out of the site when user is idle for some period of time
 
+## Screenshot
+![Screen Shot 2021-11-29 at 3 55 02 PM](https://user-images.githubusercontent.com/88289885/143941875-762080b7-71d8-475e-892f-df74c75ea930.png)
 
 
 ## Technologies Use
